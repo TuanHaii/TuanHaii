@@ -1,6 +1,6 @@
 # 👋 Xin chào! Mình là Tuan Hai  
 
-[![Linkedin Badge](https://img.shields.io/badge/-yourname-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yourlink/)](https://www.linkedin.com/in/yourlink/)
+[![Linkedin Badge](https://img.shields.io/badge/-yourname-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yourlink/)](https://www.linkedin.com/in/nguy%E1%BB%85n-h%E1%BA%A3i-0762ab310/)
 [![Gmail Badge](https://img.shields.io/badge/-yourmail-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:yourmail@gmail.com)](mailto:nguyenhai0795426943@gmail.com)
 
 ---
@@ -40,14 +40,14 @@
 ---
 
 ## 📊 Thống kê GitHub
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=TuanHaii&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TuanHaii&layout=compact&theme=radical)
 
 ---
 
 ## 📫 Liên hệ với mình
 - 🌐 Portfolio: [https://yourportfolio.com](https://yourportfolio.com)  
-- 💼 LinkedIn: [https://linkedin.com/in/yourlink](https://linkedin.com/in/yourlink)  
+- 💼 LinkedIn: [https://linkedin.com/in/yourlink](https://www.linkedin.com/in/nguy%E1%BB%85n-h%E1%BA%A3i-0762ab310/)  
 - 📧 Email: [yourmail@gmail.com](mailto:nguyenhai0795426943@gmail.com)  
 
 ---
