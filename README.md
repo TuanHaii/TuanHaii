@@ -46,9 +46,9 @@
 ---
 
 ## 📫 Liên hệ với mình
-- 🌐 Portfolio: [https://yourportfolio.com](https://yourportfolio.com)  
-- 💼 LinkedIn: [https://linkedin.com/in/yourlink](https://www.linkedin.com/in/nguy%E1%BB%85n-h%E1%BA%A3i-0762ab310/)  
-- 📧 Email: [yourmail@gmail.com](mailto:nguyenhai0795426943@gmail.com)  
+- 🌐 Portfolio: [https://TuanHai.com](https://yourportfolio.com)  
+- 💼 LinkedIn: [https://linkedin.com/in/TuanHai](https://www.linkedin.com/in/nguy%E1%BB%85n-h%E1%BA%A3i-0762ab310/)  
+- 📧 Email: [nguyenhai0795426943@gmail.com](mailto:nguyenhai0795426943@gmail.com)  
 
 ---
 
