@@ -1,7 +1,7 @@
 # 👋 Xin chào! Mình là Tuan Hai  
 
-[![Linkedin Badge](https://img.shields.io/badge/-yourname-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yourlink/)](https://www.linkedin.com/in/nguy%E1%BB%85n-h%E1%BA%A3i-0762ab310/)
-[![Gmail Badge](https://img.shields.io/badge/-yourmail-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:yourmail@gmail.com)](mailto:nguyenhai0795426943@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-yourname-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/NguyenTuanHai/)](https://www.linkedin.com/in/nguy%E1%BB%85n-h%E1%BA%A3i-0762ab310/)
+[![Gmail Badge](https://img.shields.io/badge/-yourmail-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:NguyenTuanHai)](mailto:nguyenhai0795426943@gmail.com)
 
 ---
 
