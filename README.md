@@ -6,8 +6,8 @@
 ---
 
 ## 🚀 Về mình
-- 💻 Hiện tại: [Frontend Developer | Backend Developer | Student ...]
-- 🎓 Đang học: [Công nghệ phần mềm / IT / ...]
+- 💻 Hiện tại: [Backend Developer | Student ...]
+- 🎓 Đang học: IT
 - 🌱 Quan tâm đến: AI, Web Development, Mobile App, Cloud...
 - ⚡ Fun fact: Ham học hỏi, chịu cực
 
@@ -17,13 +17,10 @@
 
 **Ngôn ngữ lập trình:**
 ![Java](https://img.shields.io/badge/-Java-red?style=flat-square&logo=java&logoColor=white)
-![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![Python](https://img.shields.io/badge/-Python-blue?style=flat-square&logo=python)
 
 **Framework & Tools:**
 ![Spring Boot](https://img.shields.io/badge/-SpringBoot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
-![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
 
@@ -34,8 +31,6 @@
 
 **Công cụ khác:**
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
 ---
 
